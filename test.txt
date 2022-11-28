@@ -1,1 +1,1 @@
-this is to test the rul
+this is to test the rule of jira trigger
